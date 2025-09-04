@@ -51,30 +51,30 @@ export default function AboutPage() {
 
   const team = [
     {
-      name: "Harish Sharma",
-      role: "Founder & CEO",
+      name: "Akhilesh K",
+      role: "Founder",
       bio: "Digital marketing expert with 8+ years of experience helping local businesses grow. Passionate about community-driven marketing.",
       image: "/professional-indian-man-suit.jpg",
       linkedin: "#",
-      email: "harish@hshtg.com",
+      email: "akhilesh@hshtg.com",
       specialties: ["Digital Strategy", "Local SEO", "Business Growth"],
     },
     {
-      name: "Sneha Patel",
+      name: "Chandan S",
       role: "Creative Director",
       bio: "Award-winning designer specializing in brand identity and visual storytelling. Creates compelling designs that convert.",
       image: "/professional-indian-woman-creative.jpg",
       linkedin: "#",
-      email: "sneha@hshtg.com",
+      email: "chandan@hshtg.com",
       specialties: ["Brand Design", "Visual Identity", "Creative Strategy"],
     },
     {
-      name: "Tarun Gupta",
+      name: "Abhishek",
       role: "Social Media Manager",
       bio: "Social media strategist who understands the pulse of Bengaluru's local market. Expert in viral content creation.",
       image: "/young-indian-man-casual-professional.jpg",
       linkedin: "#",
-      email: "tarun@hshtg.com",
+      email: "abhishek@hshtg.com",
       specialties: ["Social Media", "Content Creation", "Community Building"],
     },
     {
